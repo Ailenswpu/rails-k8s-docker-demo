@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# rails-k8s-docker-demo
+>>>>>>> f761c5ab0dc2f523406936f62c9d78eb716b1f6e
